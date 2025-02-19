@@ -16,4 +16,5 @@ List of technologies I have worked with:
 - HTML
 - CSS
 - LESS
+- Figma
 - Javascript
